@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "xcode-local-edit-bug-deps",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/omochi/xcode-local-edit-bug-deps",
+      "state" : {
+        "branch" : "main",
+        "revision" : "492516c599a31b891a61286a156c69035c706ab6"
+      }
+    }
+  ],
+  "version" : 2
+}
